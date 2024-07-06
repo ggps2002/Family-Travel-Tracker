@@ -39,10 +39,11 @@ Family Travel Tracker is a web application designed to help users keep track of 
     - Run the SQL script provided in `db/schema.sql` to set up the database schema.
     - Create a `.env` file in the root directory and add your database connection details:
       ```env
-      DB_HOST=localhost
-      DB_USER=yourusername
-      DB_PASSWORD=yourpassword
-      DB_NAME=family_travel_tracker
+      PG_HOST=localhost
+      PG_USER=yourusername
+      PG_PASSWORD=yourpassword
+      PG_PORT = your_db_port
+      PG_DATABASE = your_pg_database
       ```
 
 4. **Start the application**:
