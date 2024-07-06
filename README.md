@@ -57,6 +57,6 @@ Family Travel Tracker is a web application designed to help users keep track of 
 
 3. **Add Visited Countries**:
     - Navigate to the world map interface.
-    - Select a country and choose a color.
+    - Choose a color and select a country .
     - Save to mark the country as visited.
 4. **View Visited Countries**: See all the countries you have visited highlighted on the map.
